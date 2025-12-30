@@ -1,0 +1,33 @@
+============================================================
+CSV Report
+============================================================
+
+The Student Social Media & Relationships dataset contains anonymized records of students’ social‐media behaviours and related life outcomes. It spans multiple countries and academic levels, focusing on key dimensions such as usage intensity, platform preferences, and relationship dynamics. Each row represents one student’s survey response, offering a cross‐sectional snapshot suitable for statistical analysis and machine‐learning applications.
+
+----------------------------------------
+
+What I've done: 
+            1. Downloaded data
+            2. Checked the data
+            3. Cleaned up and filtered the data
+            4. Analysed the data and wrote a report
+            5. Saved the report
+
+----------------------------------------
+
+Categories: Student_ID, Age, Gender, Academic_Level, Country, Avg_Daily_Usage_Hours, Most_Used_Platform, Affects_Academic_Performance, Sleep_Hours_Per_Night, Mental_Health_Score, Relationship_Status, Conflicts_Over_Social_Media, Addicted_Score, 
+
+Statistics:
+ * Amount of participants: 705
+ * Average age of participants: 20.66
+ * Average hours of use: 4.92
+ * Average Hours of sleep per night: 6.87
+ * Average mental health score: 6.23
+ * Average amount of conflicts over social media: 2.85
+ * Average score of addiction: 6.44
+
+Geography: multi‐country coverage - Bangladesh, India, USA, UK, Canada, Australia, Germany, Brazil, Japan, South Korea, France, Spain, Italy, Mexico, Russia, China, Sweden, Norway, Denmark, Netherlands, Belgium, Switzerland, Austria, Portugal, Greece, Ireland, New Zealand, Singapore, Malaysia, Thailand, Vietnam, Philippines, Indonesia, Taiwan, Hong Kong, Turkey, Israel, UAE, Egypt, Morocco, South Africa, Nigeria, Kenya, Ghana, Argentina, Chile, Colombia, Peru, Venezuela, Ecuador, Uruguay, Paraguay, Bolivia, Costa Rica, Panama, Jamaica, Trinidad, Bahamas, Iceland, Finland, Poland, Romania, Hungary, Czech Republic, Slovakia, Croatia, Serbia, Slovenia, Bulgaria, Estonia, Latvia, Lithuania, Ukraine, Moldova, Belarus, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Armenia, Georgia, Azerbaijan, Cyprus, Malta, Luxembourg, Monaco, Andorra, San Marino, Vatican City, Liechtenstein, Montenegro, Albania, North Macedonia, Kosovo, Bosnia, Qatar, Kuwait, Bahrain, Oman, Jordan, Lebanon, Iraq, Yemen, Syria, Afghanistan, Pakistan, Nepal, Bhutan, Sri Lanka, Maldives, 
+
+============================================================
+Conclusion: As I can see from the data the average participant is more or less matured so the research is not about kids. The average daily usage hours reveal that the hours spent being on the phone are no that numerous and are completely fine. But I can't make the same statement about the rest of the data: the average hours of sleep are nut sufficient for the young age, beyond that the mental score which is quite low. However, the amount of conflicts is acceptable. And the addiction rate is significantly high. From my perspective as a digital native, I think that young people should pay attention to their purpose of smartphone use and the content they consume.
+============================================================
