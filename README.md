@@ -1,7 +1,8 @@
 # 📋 CSV-parser
 A Python-based CSV data analysis pipeline that parses, cleans, validates, and analyzes tabular data.
 The project generates a structured, human-readable report with key statistics and insights.
-<img width="1701" height="810" alt="image" src="https://github.com/user-attachments/assets/226d59f1-f7cd-4548-8ba8-31bf4582f544" />
+<img width="1920" height="762" alt="image" src="https://github.com/user-attachments/assets/65cea392-cbb2-4f2d-8fde-af537f53c5bd" />
+
 
 
 ## Project Goals
