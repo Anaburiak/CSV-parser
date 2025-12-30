@@ -42,6 +42,7 @@ The project generates a structured, human-readable report with key statistics an
 
 ## Project Status
 This project was completed as a learning mini-project after the first month of my Machine Learning self-study plan.
+The project was completed in several iterations, with correction of logical and analytical errors.
 
 ## Possible Improvements
 - Refactor into multiple modules
